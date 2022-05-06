@@ -14,7 +14,7 @@ public class Main {
         fish.setEat();
 
     }
-    
+
 
 
 
