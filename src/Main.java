@@ -21,7 +21,7 @@ public class Main {
         Parrot parrot = new Parrot();
         parrot.setName("Parrot");
         parrot.setColor("green");
-        parrot.setAge(5);
+        parrot.setAge(8);
 
         System.out.println("\nname: " +parrot.getName() + ", color: " + parrot.getColor()+", age: "+parrot.getAge());
 
