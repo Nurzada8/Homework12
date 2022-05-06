@@ -9,7 +9,7 @@ public class Main {
         fish.setSize("small");
 
         System.out.println("name:" +fish.getName()+", color: "+fish.getColor()+", size: "+fish.getSize());
-
+        System.out.println();
 
         fish.setEat();
 
